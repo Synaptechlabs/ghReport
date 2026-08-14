@@ -1,3 +1,23 @@
+# ==============================================================================
+# ghReport.py
+#
+# GitHub Repository Report
+#
+# Created by: Scott 08-26
+#
+# Usage:
+#     python3 ghReport.py OWNER/REPO
+#
+# Authentication:
+#     The GitHub Personal Access Token is retrieved from macOS Keychain
+#     using the service name "github-api-token".
+#
+# Requirements:
+#     - Python 3
+#     - macOS Keychain (current authentication implementation)
+#     - GitHub Personal Access Token with appropriate read permissions
+#
+# ==============================================================================
 #!/usr/bin/env python3
 
 import sys
