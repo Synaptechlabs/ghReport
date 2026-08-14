@@ -1,4 +1,4 @@
-# GitHub Repository Report
+ GitHub Repository Report
 
 A small command-line utility that produces a detailed report for a GitHub repository using the GitHub REST API.
 
@@ -269,7 +269,7 @@ chmod +x ghReport.py
 Then:
 
 ```bash
-./ghReport.py synaptechlabs/gss-agents
+./ghReport.py OWNER/REPO
 ```
 
 You can also place the script somewhere on your `$PATH` and invoke it like any other command-line utility.
