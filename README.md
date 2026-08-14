@@ -4,6 +4,11 @@ A small command-line utility that produces a detailed report for a GitHub reposi
 
 The report combines repository metadata, activity statistics, language information and tracked-file storage analysis into a single terminal-friendly view.
 
+Read the rest of this README RTFM ;) In short though as I am running a lot of Github
+things I wanted a tool tool keep track of du etc on my repos.
+
+Use at own risk. Have fune :)
+
 ## Features
 
 The report includes:
