@@ -7,7 +7,7 @@ The report combines repository metadata, activity statistics, language informati
 Read the rest of this README RTFM ;) In short though as I am running a lot of Github
 things I wanted a tool tool keep track of du etc on my repos.
 
-Use at own risk. Have fune :)
+Use at own risk. Have fun :)
 
 ## Features
 
